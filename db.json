@@ -1,0 +1,14 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "nombre": "Aprendiendo Redux Hooks 2020",
+      "precio": "20"
+    },
+    {
+      "id": "aK4KGrB",
+      "nombre": "JAVA v7",
+      "precio": "50"
+    }
+  ]
+}
